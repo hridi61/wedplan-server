@@ -2,9 +2,9 @@
 
 Express.js REST API for **WedPlan**, a role-based wedding planning platform.
 
-- **Live API:** `https://your-server.vercel.app` _(add after deploying)_
-- **Client repository:** `https://github.com/<you>/wedplan-client`
-- **Server repository:** `https://github.com/<you>/wedplan-server`
+- **Live API:** [https://wedplan-server-mu.vercel.app](https://wedplan-server-mu.vercel.app)
+- **Client repository:** [https://github.com/hridi61/wedplan-client](https://github.com/hridi61/wedplan-client)
+- **Server repository:** [https://github.com/hridi61/wedplan-server](https://github.com/hridi61/wedplan-server)
 
 ## Important features
 
@@ -24,7 +24,7 @@ Node.js 20+, Express 5, MongoDB driver, jose (JWT), Stripe, Helmet, CORS.
 ## Installation
 
 ```bash
-git clone https://github.com/<you>/wedplan-server.git
+git clone https://github.com/hridi61/wedplan-server.git
 cd wedplan-server
 npm install
 cp .env.example .env   # then fill in the values
