@@ -3,6 +3,7 @@
 Express.js REST API for **WedPlan**, a role-based wedding planning platform.
 
 - **Live API:** [https://wedplan-server-mu.vercel.app](https://wedplan-server-mu.vercel.app)
+- **Live website:** [https://wedplan-client-self.vercel.app](https://wedplan-client-self.vercel.app)
 - **Client repository:** [https://github.com/hridi61/wedplan-client](https://github.com/hridi61/wedplan-client)
 - **Server repository:** [https://github.com/hridi61/wedplan-server](https://github.com/hridi61/wedplan-server)
 
